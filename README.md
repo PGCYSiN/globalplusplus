@@ -1,2 +1,2 @@
 # globalplusplus
-Pokemon Go Coordinates ⬩ Version 8.0
+Pokemon Go Coordinates ⬩ https://pokemongocoordinates.ga
